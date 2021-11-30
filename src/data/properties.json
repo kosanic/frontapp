@@ -1,0 +1,52 @@
+[
+    {
+      "Id": 1,
+      "SellRent" :1,
+      "Name" : "Biral House",
+      "Type" : "Kuća",
+      "Price" : "21300$",
+      "Image" :"prop-1"
+    },
+    {
+      "Id": 2,
+      "SellRent" :2,
+      "Name" : "Erose Villa",
+      "Type" : "Kuća",
+      "Price" : "17000$",
+      "Image" :"prop-2"
+  },
+  {
+      "Id": 3,
+      "SellRent" :3,
+      "Name" : "Mark Hill",
+      "Type" : "Kuća",
+      "Price" : "10000$",
+      "Image" :"prop-3"
+  },
+  {
+      "Id": 4,
+      "SellRent" :4,
+      "Name" : "Gun Hill",
+      "Type" : "Kuća",
+      "Price" : "25000$",
+      "Image" :"prop-4"
+  },
+  {
+    "Id": 5,
+    "SellRent" :5,
+    "Name" : "Macro Home",
+    "Type" : "Kuća",
+    "Price" : "13300$",
+    "Image" :"prop-5"
+  },
+  {
+    "Id": 6,
+    "SellRent" :6,
+    "Name" : "Pearl House",
+    "Type" : "Kuća",
+    "Price" : "15000$"
+    
+    
+  }
+  
+  ]
